@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(RockPaperScissors());
 
-class RockPaperScissors extends StatefulWidget {
+class RockPaperScissors extends StatefulWidget { 
   @override
   _RockPaperScissorsState createState() => _RockPaperScissorsState();
 }
